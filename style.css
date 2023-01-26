@@ -1,0 +1,161 @@
+h1{
+    text-align: center
+}
+
+h1, h3{
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#Articulos{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Moana-personalizada  {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.Mickey-personalizado {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.Frozen-personalizada {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.PawPatrol-personalizada {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.Miny-personalizada {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.Batman-personalizada {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.Masha-personalizado {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.Frozen2-personalizada {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.PSP4-personalizado {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+div {
+    background-color: aquamarine;
+}
+
+.Redonda-Ariel {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.Redonda-Batman {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.Redonda-Ben10 {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.Redonda-Miny {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.Redonda-Bobesponja {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.Redonda-Frozen {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.Redonda-Hulk, .Redonda-Mickey, .Redonda-Moana, .Redonda-Mqueen, 
+.Redonda-Spiderman, .Redonda-Spiderman2, .Redonda-TikTok, 
+.Redonda-Unicornio, .Redonda-Superpoderosas, .Redonda-Woody,
+.Redonda-Unicornio2 {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.Base-Babyshark, .Base-Batman, .Base-Mickey, .Base-Mqueen, .Base-PawPatrol,
+.Base-princesas, .Etiquetas {
+    width: 150px;
+    border-radius: 8%;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+
